@@ -189,16 +189,6 @@ currency-converter/
 
 USD, INR, EUR, GBP, JPY, AUD, CAD, CHF, CNY, SEK, NZD, KRW, SGD, NOK, MXN, HKD, ZAR, BRL, AED, SAR, TRY, RUB, THB, IDR, MYR, PHP, DKK, PLN, ILS, CZK
 
-## 🔧 Configuration
-
-### API Configuration
-
-The app uses the free tier of ExchangeRate-API. To use your own API key:
-
-```javascript
-// src/utils/api.js
-const API_KEY = "YOUR_API_KEY_HERE";
-```
 
 ### Tailwind Configuration
 
@@ -209,15 +199,6 @@ Customize colors, themes, and styles in:
 // index.css - @theme section
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -230,12 +211,5 @@ This project is licensed under the MIT License.
 - [Framer Motion](https://www.framer.com/motion/) for smooth animations
 - [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/currency-converter](https://github.com/yourusername/currency-converter)
-
----
 
 **Made with ❤️ using React + Vite + Tailwind CSS**
